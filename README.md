@@ -10,7 +10,7 @@ Note1:
 
 PCM sound data in the "pcm_sound" folder is not provided for copyright reasons.
 
-Please go to https://mynoise.net/NoiseMachines/trafficNoiseGenerator.php and purchase related resources.
+Please refer to https://mynoise.net/NoiseMachines/trafficNoiseGenerator.php and purchase related resources.
 
 10 PCM sound files are needed here to generate the correct sound. All of them are in the S16LE(S16LSB) PCM format with a sample rate of 44100Hz and only one channel.
 
