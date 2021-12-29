@@ -1,4 +1,4 @@
-# Vehicle-Road-Noise-Simulator
+# Simple Vehicle Road Noise Simulator
 A simple but realistic simulator of vehicle air noise and road noise on flat road with the consideration  of varying vehicle speed, other vehicles passing by and tire skids.
 
 Designed for the use of driving simulators. The sound simulator was written in C++ and compiled with MinGW 11.0. 
